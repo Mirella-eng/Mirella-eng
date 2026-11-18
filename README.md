@@ -15,7 +15,6 @@ Estou sempre buscando aprender novas tecnologias, desenvolver projetos práticos
 🧠 Interesse em Desenvolvimento de Software e Banco de Dados
 🎯 Em busca de oportunidades para desenvolver minhas habilidades e crescer profissionalmente
 
-
 🛠️ Tecnologias e ferramentas:
 HTML
 CSS
